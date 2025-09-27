@@ -1,2 +1,16 @@
-# ClimaCheck
-A Python Weather App that fetches real-time weather data using OpenWeather API.
+# 🌦️ ClimaCheck - Python Weather App  
+
+ClimaCheck is a simple yet powerful weather application that fetches **real-time weather data** using the [OpenWeatherMap API](https://openweathermap.org/api).  
+Enter any city 🌍 and instantly get temperature, humidity, and weather conditions.  
+
+---
+
+## ✨ Features
+- 🌡️ Shows current temperature in Celsius  
+- 💧 Displays humidity percentage  
+- 🌥️ Tells you weather conditions (Clear, Clouds, Rain, etc.)  
+- ⚡ Fast and lightweight  
+
+---
+
+## 📂 Project Structure
