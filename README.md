@@ -14,3 +14,10 @@ Enter any city 🌍 and instantly get temperature, humidity, and weather conditi
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🚀 How to Run
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/yourusername/SkyCast.git
